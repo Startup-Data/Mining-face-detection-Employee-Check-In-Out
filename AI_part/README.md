@@ -5,14 +5,14 @@ Some of Available algorithm for this project are:
  1. Face detection AI algorithms, like:
 [![enter image description here][1]][1]
  - Creating the Employee face Database by:  Cascade Classification which
-   could be accessible form [here]()   
+   could be accessible form [here](https://colab.research.google.com/github/Startup-Data/Mining-face-detection-Employee-Check-In-Out/blob/main/AI_part/4_Cascade_classification.ipynb)   
    ([ref](https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/4-Cascade_classification.ipynb#scrollTo=rOG12Rey7g9C))
 
  2. Detecting the employee name from their face image by the below
     codes:
 
  - [In-Depth: Support Vector
-   Machines](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb#scrollTo=iZkKB0JmUNUh)
+   Machines](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb#scrollTo=iZkKB0JmUNUh) its Colab page on this project could be seen [here](https://colab.research.google.com/github/Startup-Data/Mining-face-detection-Employee-Check-In-Out/blob/main/AI_part/05_07_Support_Vector_Machines.ipynb)
 
 **To-Do:**
 
